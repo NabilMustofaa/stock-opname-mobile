@@ -1,5 +1,8 @@
-# Welcome to your Expo app 👋
+# Welcome to your Stock Opname App
 
+This Stock Opname Application are inspired by Easy Stock Opname that been used on PT BORWITA CITRA PRIMA. Right now application are just replica without any addition feature from PWA Easy Stock Opname. Public feature are still under development to make user can create new Task to spesific company with dataset separated from Borwita Citra Prima Data.
+
+## Expo
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
